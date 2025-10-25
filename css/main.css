@@ -1,10 +1,10 @@
 @import "theme.css";
-@import "/css/sections/header.css";
-@import "/css/sections/aboutme.css";
-@import "/css/sections/skills.css";
-@import "/css/sections/projects.css";
-@import "/css/sections/footer.css";
-@import "/css/sections/animation.css";
+@import "sections/header.css";
+@import "sections/aboutme.css";
+@import "sections/skills.css";
+@import "sections/projects.css";
+@import "sections/footer.css";
+@import "sections/animation.css";
 
 /* padding và border không làm thay đổi kích thước phần tử */
 * {
